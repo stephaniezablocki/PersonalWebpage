@@ -13,6 +13,15 @@ header,
     background-size: cover;
 }
 
+#resume-intro {
+    background: black no-repeat center center fixed;
+    height: 100vh;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
 .top-nav-collapse {
     background-color: #24355C;
   }
